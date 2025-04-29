@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'nns-solar-icon';
+  src: url('/font/nns-solar-icon.eot?33010300');
+  src: url('/font/nns-solar-icon.eot?33010300#iefix') format('embedded-opentype'),
+       url('/font/nns-solar-icon.woff?33010300') format('woff'),
+       url('/font/nns-solar-icon.ttf?33010300') format('truetype'),
+       url('/font/nns-solar-icon.svg?33010300#nns-solar-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+.icon {
+  font-family: "nns-solar-icon";
+  font-style: normal;
+  font-weight: normal;
+}
